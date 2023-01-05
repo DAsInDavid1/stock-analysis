@@ -1,2 +1,0 @@
-#Overview of Stock Analysis
-The purpose of this Analysis was to be able to analysis stock data in the most effiecent way I can make it. The first code which I wrote works well for a small amount of data, but as more data is added, we will need a code that can optimally analaysis all the data given in a short amount of time.
